@@ -14,6 +14,7 @@
     "controllers/**/*.ts",
     "middleware/**/*.ts",
     "routes/**/*.ts",
+    "firebase-functions/**/*.ts",
     "index.ts"
   ],
   "exclude": ["node_modules", "**/*.spec.ts"],
